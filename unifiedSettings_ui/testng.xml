@@ -5,5 +5,5 @@
     <classes>   
       <class name="DriverScripts.Driver"/>
     </classes>
-  </test> <!-- Test --->
+  </test> <!-- Test -->
 </suite> <!-- Suite -->
