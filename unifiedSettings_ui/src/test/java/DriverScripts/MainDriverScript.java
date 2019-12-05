@@ -14,7 +14,7 @@ import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 
 import ReportUtilities.ReportUtil;
-import SPM_Keywords.Keywords;
+import US_Keywords.Keywords;
 import Utilities.Resources;
 import Utilities.TestUtils;
 

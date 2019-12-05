@@ -1,4 +1,4 @@
-package SPM_UIActions;
+package US_UIActions;
 
 import java.awt.AWTException;
 import java.awt.Robot;
@@ -19,7 +19,8 @@ import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import com.sun.glass.events.KeyEvent;
-import SPM_Keywords.Keywords;
+
+import US_Keywords.Keywords;
 import Utilities.Resources;
 
 public class USPage extends Resources{ 
