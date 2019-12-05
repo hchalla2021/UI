@@ -159,6 +159,11 @@ public class Keywords extends Resources{
 		return "Pass";
 	}
 	
+	public static String LaunchingApplication() throws Exception{
+		USPage US = new USPage();
+		return US.LaunchingApplication();
+	}
+	
 	/*
 	public static String expliciteWait(){
      try {
